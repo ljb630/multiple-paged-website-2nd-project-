@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+#nav-bar{
+    background-color:brown;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+
+}
+#nav-bar :hover{
+    color: black;
+}
+#nav-bar a{
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: white;
+}
+#main-body{
+    background-color: palegoldenrod;
+padding: 100px;
+height: 550px;
+}
+#main-body h1{
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+    margin: 15px;
+    color: brown;
+
+
+}
+#main-body p{
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+    color: brown;
+   
+}
+#service-body{
+    background-color: palegoldenrod;
+    padding: 90px;
+    height: 550px;
+    align-items: center;
+    text-align: center;
+
+}
+#service-body h1{
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    margin: 15px;
+    color: brown;
+
+
+}
+#service-tab tr td{
+    text-align: center;
+    align-items: center;
+}
+#ser-img img{
+    width: 200px;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+}
+#ser-img p{
+    color: brown;
+    margin: 15px;
+}
+#contact-body{
+    background-color: palegoldenrod;
+    padding: 90px;
+    height: 550px;
+    align-items: center;
+    text-align: center;
+    color: brown;
+
+}
+.contact-img{
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+}
+.contact-img{
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+#foot-bar{
+    background-color:brown;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+ 
+  
+}
+#foot-bar a p{
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+
+}
+#foot-bar :hover{
+    color: black;
+}
